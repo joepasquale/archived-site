@@ -13,11 +13,11 @@ function Skills() {
               <span className="icon has-text-link">
                 <i className="fas fa-3x fa-cogs"></i>
               </span>
-              <h2 className="title is-5">DevOps</h2>
+              <h2 className="title is-5">Web Development</h2>
             </div>
             <SkillsList
               skills={Resume.skills
-                .filter(skill => skill.keywords.includes("DevOps"))
+                .filter(skill => skill.keywords.includes("Web Development"))
                 .reduce((obj, item) => {
                   obj[item.name] = item.level;
                   return obj;

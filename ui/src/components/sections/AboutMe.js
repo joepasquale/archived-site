@@ -16,7 +16,7 @@ function AboutMe() {
             onError={(e)=>{e.target.onerror = null; e.target.src=Resume.basics.x_pictureFallback}}
           />
         </figure>
-        <p className="subtitle is-4 has-text-white has-text-weight-bold">
+        <p className="subtitle is-4 has-text-white has-text-weight-bold" style={{marginTop:"60px"}}>
           {Resume.basics.x_title}
         </p>
         <p className="subtitle is-5 has-text-white has-text-weight-light summary-text">

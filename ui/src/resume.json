@@ -2,10 +2,10 @@
   "basics": {
     "name": "Joe Pasquale",
     "label": "Software Engineer",
-    "picture": "images/jcoelho.webp",
-    "x_pictureFallback": "images/jcoelho.jpg",
-    "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 4 years of experience in IT. Currently I’m working as a developer exploring the DevOps world. I’m interested in service management, all sorts of automation and developing front-end and back-end applications.",
+    "picture": "images/composite-2020.webp",
+    "x_pictureFallback": "images/composite-2020.jpg",
+    "x_title": "Joe Pasquale",
+    "summary": "Graduating from UMass Amherst in May 2021 with a B.S. in Computer Science and Economics. Currently slated to begin working for a financial technology firm called Advisor360 out of Weston, MA as a Software Engineer.",
     "location": {
       "country": "United States",
       "countryCode": "USA",
@@ -13,69 +13,57 @@
     },
     "profiles": [
       {
-        "network": "DEV Community",
-        "username": "jcoelho",
-        "url": "https://dev.to/jcoelho",
-        "x_icon":"fab fa-2x fa-dev"
+        "network": "Instagram",
+        "username": "joepasquale1",
+        "url": "https://www.instagram.com/joepasquale1",
+        "x_icon":"fab fa-2x fa-instagram"
       },
       {
         "network": "LinkedIn",
-        "username": "josecoelho93",
-        "url": "https://www.linkedin.com/in/josecoelho93",
+        "username": "jpasquale1",
+        "url": "https://www.linkedin.com/in/jpasquale1",
         "x_icon": "fab fa-2x fa-linkedin"
       },
       {
         "network": "GitHub",
-        "username": "jcoelho93",
-        "url": "https://github.com/jcoelho93",
+        "username": "joepasquale",
+        "url": "https://github.com/joepasquale",
         "x_icon": "fab fa-2x fa-github"
+      },
+      {
+        "network": "Spotify",
+        "username": "joepasquale",
+        "url": "https://open.spotify.com/user/joepasquale",
+        "x_icon": "fab fa-2x fa-spotify"
       }
     ]
   },
   "work": [
     {
-      "company": "Bosch",
-      "position": "DevOps Engineer for automated driving",
-      "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
+      "company": "Advisor360",
+      "position": "Software Engineer",
+      "website": "https://www.advisor360.com",
+      "startDate": "2021-06-01",
       "endDate": "",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
+      "summary": "Starting my first professional developer experience as a Production Engineer for Advisor360",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
+      "company": "Tech-Etch Inc.",
+      "position": "Information Technology Intern",
+      "website": "https://www.techetch.com",
+      "startDate": "2020-07-27",
+      "endDate": "2020-08-21",
+      "summary": "Worked as an IT intern at a local manufacturing company during the COVID pandemic (hence the short timeframe). While at Tech Etch, I put together a Flask application that allowed users to query the company's SQL database, which had been migrated from a Paradox DOS DBMS.",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
-      "highlights": []
-    },
-    {
-      "company": "European GNSS Agency",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
-      "highlights": []
-    },
-    {
-      "company": "Empresa de Electricidade da Madeira",
-      "position": "IT Support Technician",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
+      "company": "UMass Research IT",
+      "position": "Office Assistant",
+      "website": "https://www.umass.edu",
+      "startDate": "2019-05-14",
+      "endDate": "2019-08-01",
+      "summary": "Assisted in migration of grant proposals and awards from Smartgrant Management System to Kuali Management System",
       "highlights": []
     }
   ],
@@ -96,48 +84,13 @@
   ],
   "skills": [
     {
-      "name": "Jenkins",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Continuous Integration",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Scripting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Containers",
-      "level": "Intermediate",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Cloud",
-      "level": "Basic",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Troubleshooting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Infrastructure as Code",
-      "level": "Basic",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Object Oriented Programming",
+      "name": "Python",
       "level": "Advanced",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Design Patterns",
-      "level": "Intermediate",
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
       "keywords": ["Software Developer"]
     },
     {
@@ -146,52 +99,81 @@
       "keywords": ["Software Developer"]
     },
     {
+      "name": "Containers (Docker)",
+      "level": "Intermediate",
+      "keywords": ["Web Development"]
+    },
+    {
       "name": "REST API",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
+      "level": "Intermediate",
+      "keywords": ["Web Development"]
     },
     {
-      "name": "Unit Testing",
+      "name": "Flask",
+      "level": "Intermediate",
+      "keywords": ["Web Development"]
+    },
+    {
+      "name": "SQL",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "MySQL",
+      "name": "PostGres",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "MongoDB",
+      "name": "Java",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords":["Web Development"]
+    },
+    {
+      "name": "AWS Deployment",
+      "level": "Basic",
+      "keywords":["Web Development"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Basic",
+      "keywords": ["Web Development"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent speaker"
+      "fluency": "Native speaker"
     },
     {
-      "language": "Portuguese",
-      "fluency": "Native speaker"
+      "language": "Italian",
+      "fluency": "Elementary Proficiency"
     }
   ],
   "interests": [
     {
-      "name": "Travel bug",
+      "name": "Travel",
       "x_icon": "fa-globe-africa"
     },
     {
-      "name": "Dog lover",
+      "name": "Dogs",
       "x_icon": "fa-dog"
     },
     {
-      "name": "Foodie",
+      "name": "Food",
       "x_icon": "fa-utensils"
     },
     {
-      "name": "Live in the now",
-      "x_icon": "fa-brain"
+      "name": "Video Games",
+      "x_icon": "fa-gamepad"
+    },
+    {
+      "name": "Stocks",
+      "x_icon": "fa-money-bill-alt"
     }
   ]
 }
