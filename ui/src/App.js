@@ -21,12 +21,10 @@ class App extends React.Component {
 			<div className='App'>
 				<Navbar color="primary">
 					<div className="container" id="brand">
-						<NavbarBrand>Incredible India</NavbarBrand>
+						<NavbarBrand>Joe Pasquale</NavbarBrand>
 					</div>
 				</Navbar>
 				<Greet />
-				<h1>Famous Places of India</h1>
-				<Menu places={this.state.places} />
 			</div>
 		);
 	}
