@@ -5,7 +5,7 @@
     "picture": "images/composite-2020.webp",
     "x_pictureFallback": "images/composite-2020.jpg",
     "x_title": "Joe Pasquale",
-    "summary": "Graduating from UMass Amherst in May 2021 with a B.S. in Computer Science and Economics. Currently slated to begin working for a financial technology firm called Advisor360 out of Weston, MA as a Software Engineer.",
+    "summary": "Graduating from UMass Amherst in May 2021 with a B.S. in Computer Science and Economics. Currently slated to begin working for a financial technology firm called Advisor360 out of Weston, MA as a Software Engineer. Brother of Kappa Sigma Fraternity, Gamma-Delta Chapter. Following what brings me joy.",
     "location": {
       "country": "United States",
       "countryCode": "USA",
@@ -16,7 +16,7 @@
         "network": "Instagram",
         "username": "joepasquale1",
         "url": "https://www.instagram.com/joepasquale1",
-        "x_icon":"fab fa-2x fa-instagram"
+        "x_icon": "fab fa-2x fa-instagram"
       },
       {
         "network": "LinkedIn",
@@ -45,7 +45,7 @@
       "website": "https://www.advisor360.com",
       "startDate": "2021-06-01",
       "endDate": "",
-      "summary": "Starting my first professional developer experience as a Production Engineer for Advisor360",
+      "summary": "Starting my first professional developer experience as a Software Engineer for Advisor360",
       "highlights": []
     },
     {
@@ -86,62 +86,86 @@
     {
       "name": "Python",
       "level": "Advanced",
-      "keywords": ["Software Developer"]
+      "keywords": [
+        "Software Developer"
+      ]
     },
     {
       "name": "Object Oriented Programming",
       "level": "Advanced",
-      "keywords": ["Software Developer"]
+      "keywords": [
+        "Software Developer"
+      ]
     },
     {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": [
+        "Software Developer"
+      ]
     },
     {
       "name": "Containers (Docker)",
       "level": "Intermediate",
-      "keywords": ["Web Development"]
+      "keywords": [
+        "Web Development"
+      ]
     },
     {
       "name": "REST API",
       "level": "Intermediate",
-      "keywords": ["Web Development"]
+      "keywords": [
+        "Web Development"
+      ]
     },
     {
       "name": "Flask",
       "level": "Intermediate",
-      "keywords": ["Web Development"]
+      "keywords": [
+        "Web Development"
+      ]
     },
     {
       "name": "SQL",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": [
+        "Software Developer"
+      ]
     },
     {
       "name": "PostGres",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": [
+        "Software Developer"
+      ]
     },
     {
       "name": "Java",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": [
+        "Software Developer"
+      ]
     },
     {
       "name": "React",
       "level": "Intermediate",
-      "keywords":["Web Development"]
+      "keywords": [
+        "Web Development"
+      ]
     },
     {
       "name": "AWS Deployment",
       "level": "Basic",
-      "keywords":["Web Development"]
+      "keywords": [
+        "Web Development"
+      ]
     },
     {
       "name": "Cloud",
       "level": "Basic",
-      "keywords": ["Web Development"]
+      "keywords": [
+        "Web Development"
+      ]
     }
   ],
   "languages": [
@@ -174,6 +198,44 @@
     {
       "name": "Stocks",
       "x_icon": "fa-money-bill-alt"
+    }
+  ],
+  "projects": [
+    {
+      "title": "SQL Query Tool",
+      "date": "2020-08-21",
+      "description": "A web application to query a local MSSQL server",
+      "url": "https://github.com/joepasquale/sql-query-tool"
+    },
+    {
+      "title": "EleNa",
+      "date": "2020-11-20",
+      "description": "Elevation Based Navigation Software. An application for iOS written in Swift that shows user elevation change along routed paths.",
+      "url": "https://github.com/MHubs/Elena"
+    },
+    {
+      "title": "Shelf",
+      "date": "2020-05-01",
+      "description": "Shelf is a website which allows a user to sign up and store books that they are currently reading, have read, or plan to read. They can search for books which are fetched from the Google Books API, which will return basic information about the book, such as title, author, and publisher, as well as more detailed information, such as cover art and Google Books rating. Users are able to add reviews and ratings to books. Users can share their 'shelves' with other people when they add them as a friend, and they can comment on activity from members of their friends list, which show up in a feed. This was done with Daniel Coley and Josh Vasilevsky, my two other team members in COMPSCI 326 at UMass.",
+      "url": "https://github.com/MHubs/Elena"
+    },
+    {
+      "title": "LinkUp",
+      "date": "2020-12-09",
+      "description": "a new group scheduler application that allows for democratic time management systems combined with effective scheduling algorithms to efficiently help groups of people plan schedules around their lives. Simply have endpoint users add their availibility into the system and LinkUp is able to choose effective time slots and suggest locations they can meet.",
+      "url": "https://github.com/joepasquale/497s-team-e"
+    },
+    {
+      "title": "React!",
+      "date": "2020-03-15",
+      "description": "A reaction minigame I made as part of the interview process for Tech Etch. A word with a color will flash on the screen, and you must click the correct color in the appropriate amount of time.",
+      "url": "https://github.com/MHubs/Elena"
+    },
+    {
+      "title": "URecycle",
+      "date": "2019-12-15",
+      "description": "An app to help incentivize recycling on UMass Campus. Made with a team of 7 others for CS 325",
+      "url": "https://github.com/TommyOStewart/URecycle"
     }
   ]
 }

@@ -12,9 +12,10 @@ function Hero() {
         <div className="container">
           <p className="subtitle is-5 has-text-weight-light">I'm a</p>
           <h1 className="title">{Resume.basics.label}</h1>
-          <h2 className="subtitle">
+          <p className="subtitle has-text-weight-light">currently living in</p>
+          <h1 className="title">
             {Resume.basics.location.region}, {Resume.basics.location.country}
-          </h2>
+          </h1>
         </div>
       </div>
       <div className="hero-foot" style={{ paddingBottom: "20px" }}>
