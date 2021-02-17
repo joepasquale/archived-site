@@ -1,6 +1,12 @@
 version: "3.9"
 services:
 
+  ui:
+    build: ./ui
+    container_name: ui
+    restart: always
+    ports:
+      - "3000:3000"
 
   flask-app:
     build: ./flask
@@ -16,4 +22,4 @@ services:
     ports:
         - "80:80"
     depends_on:
-        - flask-app
+        - ui
