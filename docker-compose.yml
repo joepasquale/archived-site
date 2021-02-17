@@ -1,7 +1,8 @@
 version: "3.9"
 services:
 
-  web:
+
+  flask-app:
     build: ./flask
     container_name: flask-app
     restart: always
@@ -15,4 +16,4 @@ services:
     ports:
         - "80:80"
     depends_on:
-        - web
+        - flask-app
