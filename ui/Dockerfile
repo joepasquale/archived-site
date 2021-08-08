@@ -19,4 +19,4 @@ COPY . .
 EXPOSE 3000
  
 # Finally runs the application
-CMD [ "npm", "run", "build"]
+CMD [ "npm", "start"]
