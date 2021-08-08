@@ -5,7 +5,7 @@
     "picture": "images/composite-2020.webp",
     "x_pictureFallback": "images/composite-2020.jpg",
     "x_title": "Joe Pasquale",
-    "summary": "Graduating from UMass Amherst in May 2021 with a B.S. in Computer Science and Economics. Currently slated to begin working for a financial technology firm called Advisor360 out of Weston, MA as a Software Engineer. Brother of Kappa Sigma Fraternity, Gamma-Delta Chapter. Following what brings me joy.",
+    "summary": "Graduated from UMass Amherst in May 2021 with a B.S. in Computer Science and Economics. Currently working for a financial technology firm called Advisor360 out of Weston, MA as a Software Engineer. Currently living in Boston, MA. Following what brings me joy.",
     "location": {
       "country": "United States",
       "countryCode": "USA",
@@ -45,7 +45,7 @@
       "website": "https://www.advisor360.com",
       "startDate": "2021-06-01",
       "endDate": "",
-      "summary": "Starting my first professional developer experience as a Software Engineer for Advisor360",
+      "summary": "Production Engineer at Advisor360. I am currently responsible for working and fixing issues with the software and triaging/working to resolve critical incidents. I primarily work with the Trading Product Team.",
       "highlights": []
     },
     {
@@ -69,23 +69,32 @@
   ],
   "education": [
     {
-      "institution": "University of Madeira",
-      "area": "Computer Engineering",
+      "institution": "University of Massachusetts",
+      "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2011-09-15",
-      "endDate": "2019-06-07",
-      "courses": [
-        "Object Oriented Programming",
-        "Database Management Systems",
-        "Operating systems and computers architectures",
-        "Requirements Engineering"
-      ]
+      "startDate": "2017-09-01",
+      "endDate": "2021-05-14",
+      "courses": []
     }
   ],
   "skills": [
     {
       "name": "Python",
       "level": "Advanced",
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Developer"
+      ]
+    },
+    {
+      "name": ".NET Framework",
+      "level": "Intermediate",
       "keywords": [
         "Software Developer"
       ]
@@ -98,14 +107,14 @@
       ]
     },
     {
-      "name": "Git",
+      "name": "Version Control (Git, TFVC)",
       "level": "Intermediate",
       "keywords": [
         "Software Developer"
       ]
     },
     {
-      "name": "Containers (Docker)",
+      "name": "Containers (Docker, TFS, Kubernetes)",
       "level": "Intermediate",
       "keywords": [
         "Web Development"
@@ -127,14 +136,7 @@
     },
     {
       "name": "SQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Software Developer"
-      ]
-    },
-    {
-      "name": "PostGres",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "Software Developer"
       ]
@@ -155,16 +157,16 @@
     },
     {
       "name": "AWS Deployment",
-      "level": "Basic",
+      "level": "Intermediate",
       "keywords": [
         "Web Development"
       ]
     },
     {
-      "name": "Cloud",
-      "level": "Basic",
+      "name": "Incident Management",
+      "level": "Intermediate",
       "keywords": [
-        "Web Development"
+        "Software Developer"
       ]
     }
   ],
@@ -198,7 +200,12 @@
     {
       "name": "Stocks",
       "x_icon": "fa-money-bill-alt"
+    },
+    {
+      "name": "Craft Beer",
+      "x_icon": "fa-beer"
     }
+
   ],
   "projects": [
     {

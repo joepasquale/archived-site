@@ -1,8 +1,6 @@
-from flask import Flask, render_template
+from flask import Flask, request, jsonify
 from app import app
 
 @app.route('/')
-@app.route('/index')
 def index():
-    user = {'username': 'Joe'}
-    return render_template('index.html', title='Joe Pasquale', user=user)
+    return "This is a test"
